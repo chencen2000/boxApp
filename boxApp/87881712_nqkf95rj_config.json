@@ -1,0 +1,15 @@
+{
+  "boxAppSettings": {
+    "clientID": "ol91r17fhsvzdsnny8xgkaiy5jkgxfw8",
+    "clientSecret": "956pFqJsfy1Nn7yAajRhIn6eHc2eidMa",
+    "appAuth": {
+      "publicKeyID": "nqkf95rj",
+      "privateKey": "-----BEGIN ENCRYPTED PRIVATE KEY-----\nMIIFDjBABgkqhkiG9w0BBQ0wMzAbBgkqhkiG9w0BBQwwDgQIX488qvNI478CAggA\nMBQGCCqGSIb3DQMHBAiyJMbu1vVKjgSCBMhH0GYrkBkPC5xseqYjlWFWNEa1TDv8\n6NV/g7HbPpDrqrnLoroLJLpS0iDzED39KIKrenEJD8LWzwb+NrOQrsmuWRNCKZXe\nhiGvAHHK4LQvnieN3EI7/4iEoBcljbjnz7jwZ/cQQxqChtBTHUTODo3etCG6foOl\nLxUr99naC5inwh8Jnmd3fzQwAjqAfAW2LXFYnkXGmslrlez30OOt4hJgEK2IpvVy\n6BOvyjuXYOpYMIX8nowLtdRodLwUWNSw0jsTNkUC/4GjzMzItWUxQF8eHl2kfQax\nrk4htlZYUMY/TTLfnKpmS5g+P7p19zHNaSIo+N/dY+sEN0wp30cYdFNzK9oOtqWM\nbD6e67xg2zR7Fa3CNv/TkTF1aZN8PUV1mUaUFOK+e/huZJmPd9B7SFKPyzCwRAJX\nL++NVvGwhaxAhIszopBs0PeXENWYEwqEenxrRvRGlWrwRB5eQMgAZ2uknYouzSxd\n8vzYSuDS3Z8inFhGSyxpYhEwl4vbEN2WnLbanqhfj+xJ1s3GT0l2tza8PsCVK8H4\npVhM6LqT1L9iSr+fva7To7qfRw/U5fzN4SQ+Rd3BFN95E6tMRy2MSDXlAlscnrFx\njVsiBe0CEqEtKeSFJncv4WhYZYr0eE0XvQiPy1mzCZf1kV3cKCr6YuoM2ZsbKqZi\nZjb9otfrIphPs7fRHxDmI4Q5rcfY7lxm6DALWslwmZ3lbS8dU9ENeoXCykaY3e2j\n5drHO/G0UDfdIkBsvUfCU8rwydK/hpreHAqU2ckURQ+9ysFpSgFS5kF5BxJzuz6u\nln9y+8FHhrY//jHC7MwOhNc9SmEYxKuwGIK79MZRVMkH7A+C4tA4anCoyqdavQos\nW+SSxsXJpDi7A3NlKZDCBn+HIhy0psaPZqF21EML5aDxuiUOYVC/+27zRXxYSmN4\nE2dSAB21xNMk8yyNjR28rJdLBWHrD6121fQLlcaB5TY+sBCh1npOdVI8xS/KMhSc\ncvDTEvj9ZmTbQC3lsl3swTPC9d2OiVoyqqrduwMWuFeerlkmR0S+uH4o3jEbzqyx\nOQoTWIhMiBuhuw3yDoL80AVyF4UXy2pvxXraHYKJDJg4ZUdqQfBWZJNPKBjqQ5/G\nF6HcgGICWs/jIVKnuuMQqDnkscQy0zCAXLQ1Fd6qRNhZ7UBbBXVmPs6N96gIEOlF\n++AoASfuTz3sVZ/0ASnrn3W3fxliONGzE8T1aSHmdjKKt6pqK/yo5aMhspcwgT3E\nv6f9aZMjTLRvSKCIGfzIHucl9/UA0LsLuhw0pzy7u7fUj4Hm8BVTG0Uew0p1BPaX\ntIPsGBLVOEXRSwSQF8BZ+Hdemr+bOALrkrhbKWqhsO6VOH9t4fBUVtN7R/0iEL0T\n16PwlxL0SblAy/l43eL9TwhuuJtfaTIIFpMU3xSojFt1/KEs//Vax6nf/iCc9JIm\nDEyAr8pO6NzgEbNGUGkl18Mb7N98IKZTFVb/3sCPTQyURtY6m0/cLSRPDBXpeROk\nCQI3wk+DSHqQi2u2oaL0oE9bA1uwMpi7B79paX6sycE7OMQ4TnGKDMDCiSVyEavG\ni0lNoVK65QfJL0Zmr2xT7VkSgGnn6UHS/PcFVFZQcSa1sPMsMKDRIE2Fdx4txohu\nOF4=\n-----END ENCRYPTED PRIVATE KEY-----\n",
+      "passphrase": "bdc10822597e9f8b80fd77860ee249b8"
+    }
+  },
+  "enterpriseID": "87881712",
+  "webhooks": {
+    "primaryKey": "eYwLEul4xYexHtMewuXFdEAnZKrJtj2U"
+  }
+}
